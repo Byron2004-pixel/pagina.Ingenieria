@@ -1,0 +1,252 @@
+*{
+    margin: 10px;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 14px sans-serif bold
+}
+
+header,section,footer,nav,article,hgroup {
+    display: block;
+}
+
+body {
+    text-align: center;
+   
+}
+
+.agrupar {
+    width: 1310px;
+    border: black  solid;
+    margin: 80px auto;
+    background: #ffffff;
+
+}
+
+.header{
+    background: #A0D2EB;
+    border: 1px solid #999999;
+    padding: 20px;
+}
+
+.header h1{
+    text-align: center;
+}
+
+.menu{
+    margin: auto;
+    background: #8458B3;
+    padding: 5px 15px;
+    text-align: center;
+}
+
+.menu li{
+    list-style: none;
+    padding: 15px;
+    font: bold 20px verdana;
+    display: inline-block;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: #141616;
+}
+
+.menu ul li a:hover{
+    color: #ffffff;
+    background-color: black;
+    padding: 10px;
+    
+}
+
+.menu ul li a ::after{
+    content: " | ";
+}
+
+.seccion{
+    padding: 20px;
+    width: 655px;
+    float: left;
+
+}
+
+article{
+    background:  #D0BDF4;
+    border: 1px xolid #999;
+    padding: 20px ;
+    margin-bottom: 15px;
+}
+
+time{
+    color: #999;
+}
+
+.articuloUno p{
+    text-align: justify;
+}
+
+.columna{
+    width: 500px;
+    float: left;
+    margin: 20px auto;
+}
+
+.columna blockquote{
+    border: 1px solid black;
+    padding: 50px;
+    background: #E5EAF5;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.columa blockquote ul{
+    margin: 1px 0;
+}
+
+.pie{
+    clear: both;
+    padding:40px;
+    background: #2d3436;
+    color: #ffffff;
+    font: bold 20px sans-serif;
+}
+
+img{
+    width: 80px;
+    display: block;
+    margin: 20px auto;
+}
+
+#redes_sociales{
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+#redes_sociales img{
+    width: 120px;
+}
+
+#datosP div b{
+    color: #FF0800;
+}
+
+#datosP{
+    font-size: 20px;
+    margin: 10px 5px;
+    text-align: justify;
+}
+
+.parra{
+   text-align: justify ;
+   margin-left: 30px;
+   margin-right: 30px;
+   background: #d0bdf4;
+
+}
+
+.principal time{
+    text-align: right;
+}
+
+h2{
+    color: #000000;
+    font-size:  45px;
+}
+
+h2:hover{
+    background-color: #ffff;
+    color: #5A5AF1;
+}
+
+.imagenes-ingeniero img{
+    display: inline;
+    width: 379px;
+    height: 300px;
+    margin-right: 10px;
+}
+
+.tableDerivadas  {
+    font-size: 13px;
+    width: 860px;
+    margin: 5% auto;
+
+}
+
+table{
+    background-color: #ffffff;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+th{
+    text-align: center;
+}
+
+td, th{
+    border: solid 1px black;
+    padding: 10px;
+}
+
+.columna2{
+    width: 550px;
+    float: left;
+    margin: 200px auto;
+}
+
+.columna2 blockquote{
+    border: 1px solid black;
+    padding: 50px;
+    background: #FFFBB9;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.columna2 blockquote b{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+.inventos_ingenieros img{
+    display: inline;
+    width: 45%;
+    margin-left: 20px ;
+}
+
+h1:hover{
+    background-color: #ffff;
+    color: #5A5AF1;
+}
+
+.paz-imagen img{
+    position: relative;
+    display: block;
+}
+
+p, blockquote{
+    font-size: 25px ;
+}
+
+.seccion2{
+    padding: 20px;
+    width: 700px;
+    float: left;
+    margin-right: auto;
+}
+
+#video{
+    border: #2d3436 5px solid;
+}
+
+#Datos{
+    text-align: left;
+    font-size: 30px;
+    margin-left: 70px;
+}
